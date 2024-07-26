@@ -9,6 +9,10 @@ body {
     justify-content: left;
 }
 
+.int2{
+    margin-top: 5rem;
+}
+
 .navbar {
     display: flex;
     flex-direction: column;
@@ -93,7 +97,7 @@ body {
 }
 
 .skills {
-    margin-top: 2rem;
+    margin-top: 5rem;
     text-align: left;
 }
 
@@ -146,7 +150,7 @@ body {
 }
 
 .projects {
-    margin-top: 2rem;
+    margin-top: 5rem;
 }
 
 .projects h2 {
@@ -156,8 +160,8 @@ body {
 
 .project-item {
     background-color: #faf7f7;
-    margin-bottom: 0.5rem;
-    padding: 0.5rem 1rem;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
     border-radius: 5px;
     color: #333;
     display: flex;
